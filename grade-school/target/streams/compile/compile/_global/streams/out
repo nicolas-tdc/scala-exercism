@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala:6:24: value mapValues is not a member of scala.collection.IterableView[(Int, Seq[String]),scala.collection.immutable.Map[Int,Seq[String]]][0m
+[0m[[0m[31merror[0m] [0m[0m  def sorted = db.view.mapValues(_.sorted).toMap[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

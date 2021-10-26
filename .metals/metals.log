@@ -1,0 +1,201 @@
+[0m2021.10.26 21:22:42 INFO  Started: Metals version 0.10.8 in workspace 'C:\Users\nicol\Exercism\scala' for client Visual Studio Code 1.61.2.[0m
+[0m2021.10.26 21:22:43 INFO  time: initialize in 1.11s[0m
+[0m2021.10.26 21:22:43 WARN  Build server is not auto-connectable.[0m
+[0m2021.10.26 21:22:43 WARN  no build tool detected in workspace 'C:\Users\nicol\Exercism\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.10.26 21:22:43 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:22:47 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.10.26 21:22:52 INFO  time: code lens generation in 8.18s[0m
+[0m2021.10.26 21:22:52 INFO  time: code lens generation in 1.71s[0m
+[0m2021.10.26 21:22:53 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:22:53 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+oct. 26, 2021 9:23:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFOS: Unsupported notification method: $/setTrace
+[0m2021.10.26 21:26:20 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:26:32 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:28:44 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:28:44 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:29:06 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\build.sbt[0m
+oct. 26, 2021 9:29:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 210
+[0m2021.10.26 21:30:30 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\test\scala\SpaceAgeTest.scala[0m
+oct. 26, 2021 9:30:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 378
+[0m2021.10.26 21:30:48 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:31:05 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:31:05 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+oct. 26, 2021 9:31:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 481
+oct. 26, 2021 9:31:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 487
+[0m2021.10.26 21:32:43 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+oct. 26, 2021 9:34:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 692
+oct. 26, 2021 9:34:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 698
+[0m2021.10.26 21:35:00 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:35:05 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:35:21 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:35:33 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:35:39 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:36:21 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:36:21 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:36:59 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:38:01 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:39:00 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:39:05 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:39:10 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:39:10 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:40:11 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:40:11 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 21:40:11 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+oct. 26, 2021 9:40:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1094
+[0m2021.10.26 21:41:08 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+oct. 26, 2021 9:41:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1139
+[0m2021.10.26 21:41:33 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\test\scala\SpaceAgeTest.scala[0m
+[0m2021.10.26 21:41:33 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\test\scala\SpaceAgeTest.scala[0m
+oct. 26, 2021 9:41:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1194
+[0m2021.10.26 21:41:46 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 22:03:24 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 22:03:24 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 22:03:24 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 22:03:49 WARN  no build target for: C:\Users\nicol\Exercism\scala\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 22:05:30 WARN  no build target for: C:\Users\nicol\Exercism\scala\_DONE\space-age\build.sbt[0m
+[0m2021.10.26 22:05:30 WARN  no build target for: C:\Users\nicol\Exercism\scala\_DONE\space-age\src\main\scala\SpaceAge.scala[0m
+[0m2021.10.26 22:05:30 WARN  no build target for: C:\Users\nicol\Exercism\scala\_DONE\space-age\src\test\scala\SpaceAgeTest.scala[0m
+[0m2021.10.26 22:06:01 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:15:18 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\test\scala\GradeSchoolTest.scala[0m
+oct. 26, 2021 10:22:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1317
+[0m2021.10.26 22:22:46 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:22:46 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:22:46 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+oct. 26, 2021 10:22:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1366
+[0m2021.10.26 22:22:59 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\test\scala\GradeSchoolTest.scala[0m
+[0m2021.10.26 22:22:59 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\test\scala\GradeSchoolTest.scala[0m
+oct. 26, 2021 10:24:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1390
+[0m2021.10.26 22:24:15 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:24:15 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+oct. 26, 2021 10:24:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1396
+oct. 26, 2021 10:24:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1402
+oct. 26, 2021 10:24:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1407
+oct. 26, 2021 10:25:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1423
+[0m2021.10.26 22:27:42 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:27:42 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:27:59 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:27:59 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:28:02 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:28:02 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:28:02 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:28:04 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:28:08 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:28:26 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:29:21 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:29:32 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+oct. 26, 2021 10:30:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1778
+oct. 26, 2021 10:30:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 1784
+[0m2021.10.26 22:31:30 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:31:30 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:31:30 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:31:42 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:32:59 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:33:42 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:34:41 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:34:54 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:35:32 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:37:16 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:40:51 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:41:53 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:42:00 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+oct. 26, 2021 10:42:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2631
+oct. 26, 2021 10:42:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2637
+[0m2021.10.26 22:42:21 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+oct. 26, 2021 10:45:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2669
+oct. 26, 2021 10:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2676
+oct. 26, 2021 10:46:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2719
+oct. 26, 2021 10:46:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 2729
+[0m2021.10.26 22:47:15 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:47:31 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:47:31 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:47:42 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:48:37 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:49:03 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:49:03 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:49:22 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:49:22 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:51:23 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:51:39 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:51:56 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:51:56 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:53:52 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:54:37 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:54:37 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:54:37 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:54:54 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:06 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:06 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:06 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:18 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:18 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:18 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:29 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:29 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:55:54 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:56:07 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:56:07 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 22:57:53 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+oct. 26, 2021 10:58:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3414
+[0m2021.10.26 22:58:36 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\test\scala\GradeSchoolTest.scala[0m
+oct. 26, 2021 10:58:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3433
+oct. 26, 2021 10:58:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3439
+[0m2021.10.26 23:00:43 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:02:44 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:03:08 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\build.sbt[0m
+[0m2021.10.26 23:03:20 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\build.sbt[0m
+[0m2021.10.26 23:03:20 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\build.sbt[0m
+[0m2021.10.26 23:03:20 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\build.sbt[0m
+[0m2021.10.26 23:03:20 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\build.sbt[0m
+[0m2021.10.26 23:03:20 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\build.sbt[0m
+oct. 26, 2021 11:03:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3536
+oct. 26, 2021 11:03:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3543
+oct. 26, 2021 11:03:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3548
+[0m2021.10.26 23:04:37 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\build.sbt[0m
+oct. 26, 2021 11:05:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3610
+[0m2021.10.26 23:05:07 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:05:25 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:05:25 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:06:38 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:07:39 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:09:43 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:09:43 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+oct. 26, 2021 11:13:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3728
+oct. 26, 2021 11:13:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3733
+oct. 26, 2021 11:13:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+AVERTISSEMENT: Unmatched cancel notification for request id 3745
+[0m2021.10.26 23:13:34 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.26 23:13:34 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m

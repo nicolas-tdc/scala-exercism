@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\nicol\Exercism\scala\leap\src\main\scala\Leap.scala:4:7: not found: value True[0m
+[0m[[0m[31merror[0m] [0m[0m      True[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\nicol\Exercism\scala\leap\src\main\scala\Leap.scala:6:7: not found: value False[0m
+[0m[[0m[31merror[0m] [0m[0m      False[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
