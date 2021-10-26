@@ -199,3 +199,7 @@ oct. 26, 2021 11:13:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancell
 AVERTISSEMENT: Unmatched cancel notification for request id 3745
 [0m2021.10.26 23:13:34 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
 [0m2021.10.26 23:13:34 WARN  no build target for: C:\Users\nicol\Exercism\scala\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.27 00:18:22 WARN  no build target for: C:\Users\nicol\Exercism\scala\_DONE\grade-school\build.sbt[0m
+[0m2021.10.27 00:18:22 WARN  no build target for: C:\Users\nicol\Exercism\scala\_DONE\grade-school\src\main\scala\GradeSchool.scala[0m
+[0m2021.10.27 00:18:22 WARN  no build target for: C:\Users\nicol\Exercism\scala\_DONE\grade-school\src\test\scala\GradeSchoolTest.scala[0m
+[0m2021.10.27 00:18:24 INFO  shutting down Metals[0m
